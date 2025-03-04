@@ -3,6 +3,13 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Promosi Ramadan 2025",
+            "desc": "Maintain 2 Bulan Percuma 2 Kotak Kopi PGG",
+            "img": "promo_ramadan2025.jpg",
+            "date": "04 - 31 March 2025",
+            "href": "#"
+        },        
+        {
             "title": "Oppurtinity Presentation Preview - Brickfield, Kuala Lumpur",
             "desc": "Location : YMCA, Brickfield, Kuala Lumpur, Malaysia",
             "img": "opp_kl_23022025.jpg",

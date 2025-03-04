@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Promosi Ramadan 2025",
+            "desc": "Maintain 2 Bulan Percuma 2 Kotak Kopi PGG",
+            "img": "promo_ramadan2025.jpg",
+            "alt": "Promosi Ramadan 2025",
+            "viewdate": "2025-03-04 00:00:00",
+            "eventdate": "2025-03-04 00:00:00",
+            "enddate": "2025-03-31 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Februari Super Bonanza 2025",
             "desc": "Jualan RM6000 Dalam Bulan Februari Akan Menerima Hadiah Wang Tunai RM300",
             "img": "super_bonanza_feb2025.jpg",
