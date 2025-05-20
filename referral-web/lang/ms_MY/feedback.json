@@ -1,0 +1,93 @@
+{
+    "title": "Testimoni Pengguna",
+    "subtitle1": "Perkongsian Pelanggan",
+    "subtitle2": "Tentang Produk Kami ",
+    "description": "Kami sentiasa bersedia untuk isu dan sokongan anda. Jika ada pertanyaan anda boleh bertanya kepada khidmat pelanggan kami.",
+    "contents": [
+        {
+            "id": 1,
+            "rating": 5,
+            "title": "Pengguna Perfect Mulmor & Perfect Prebiotic Fibre",
+            "contents": [
+                "Saya menghidap diabetes selama bertahun-tahun. Saya mencuba pelbagai ubat dan diet, tetapi paras gula dalam darah saya tidak stabil. Kemudian, kawan saya memperkenalkan saya kepada produk PW Wellness. Selepas menggunakan Mulmor dan Prebiotic Fiber, tahap tenaga saya telah meningkat, yang paling penting tahap gula darah dan kolestrol saya juga akhirnya terkawal.",
+                ""
+            ],
+            "name": "En Ahmad bin Essack",
+            "usertype": "Customer",
+            "imgurl": "t_mulmorfibre.png"
+        },
+        {
+            "id": 2,
+            "rating": 5,
+            "title": "Pengguna Perfect Prebiotic Fibre",
+            "contents": [
+                "Saya telah menggunakan produk Perfect Prebiotik Fibre. Ia adalah produk untuk membantu masalah penghadaman & sembelit. Hanya dalam beberapa hari menggunakannya, saya dapati peningkatan ketara dalam kesihatan penghadaman saya. Kini saya tidak perlu risau tentang sembelit lagi. Saya sangat berterima kasih kepada kawan yang memperkenalkan produk ini.",
+                ""
+            ],
+            "name": "Puan Mahizan Ismail",
+            "usertype": "Customer",
+            "imgurl": "t_fibre.png"
+        },
+        {
+            "id": 3,
+            "rating": 5,
+            "title": "Pengguna Perfect TMA",
+            "contents": [
+                "Saya Wan Amran dari Gua Musang, saya ingin mengucapkan terima kasih kepada Perfect World kerana menghasilkan produk ini, saya rasa lega sekarang dan tidak lagi menggunakan alat bantuan pernafasan kerana saya menghidap asma. Produk TMA ini mempunyai kesan yang hebat pada paru-paru saya.",
+                ""
+            ],
+            "name": "En Wan Amran",
+            "usertype": "Customer",
+            "imgurl": "t_TMA.png"
+        },
+        {  
+            "id": 4,
+            "rating": 5,
+            "title": "Pengguna Perfect Coffee PGG",
+            "contents": [
+                "Anda patut cuba kopi PGG, memang sedap dan memberi tenaga, kopi ini juga mempunyai prebiotik yang baik untuk penghadaman dan baik untuk kesihatan mata. Saya minum kopi ini setiap hari, rasa kopi yang berkualiti premium.",
+                ""
+            ],
+            "name": "En Saiful",
+            "usertype": "Customer",
+            "imgurl": "t_pgg.png"
+        },
+        {  
+            "id": 5,
+            "rating": 5,
+            "title": "Pengguna Perfect Mulmor",
+            "contents": [
+                "Saya penghidap kencing manis, selepas beberapa hari mengambil produk ini, gula dalam darah saya stabil dan paras kolesterol saya juga bertambah baik. Saya sangat mengesyorkan produk ini kepada sesiapa yang menghidap diabetes.",
+                ""
+            ],
+            "name": "Puan Sofiah Othman",
+            "usertype": "Customer",
+            "imgurl": "t_mulmor.png"
+        },
+        {
+            "id": 6,
+            "rating": 5,
+            "title": "Pengguna Perfect Primu Ladye",
+            "contents": [
+                "Hii,,saya Neesanti dari Shah Alam, setelah sekian lama mengalami period tidak teratur. Saya telah mencuba Perfect Primu Ladye. Dalam masa dua minggu selepas mengambil produk ini. Saya dapati masalah senggugut saya kembali normal. Selain mencerahkan kulit, produk ini juga bagus untuk kestabilan hormon wanita.",
+                ""
+            ],
+            "name": "Puan Neesanti Murugan",
+            "usertype": "Customer",
+            "imgurl": "t_PL.png"
+        },
+        {
+            "id": 7,
+            "rating": 5,
+            "title": "Pengguna Perfect Magin Coffee",
+            "contents": [
+                "Sebelum saya di perkenalkan dengan produk perfect magin coffee oleh seorang sahabat. Saya ada mengalami masalah kerap terjaga malam, kadang-kadang sampai 3-4 kali. Terasa macam hendak buang air kecil ..tapi bila pergi bilik air... sikit je ...rasa stress sangat... berlarutan banyak tahun la juga .Tapi Alhamdulillah sekarang masalah yang membelenggu tidur saya selama ni dah pulih...asbab dari pengambilan produk perfect magin coffee ni...Saya mampu tidur nyenyak dan hanya bangun sekali ketika subuh ja. Seingat saya...baru masuk kotak ke-3 saya mengamalkan minuman perfect magin coffee ni... Alhamdulillah syukur...terima kasih sahabat yang memperkenalkan...",
+                ""
+            ],
+            "name": "Syahrim Abdullah",
+            "usertype": "Customer",
+            "imgurl": "t_magin.png"
+
+        }
+    ]
+}

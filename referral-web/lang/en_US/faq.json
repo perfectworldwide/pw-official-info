@@ -1,0 +1,33 @@
+{
+    "title": "Frequently Ask Question",
+    "subtitle1": "Do you have",
+    "subtitle2": "any Question?",
+    "description": "You can freely reach out to us at any time with any questions! We'd always be happy to serve you.",
+    "contents": [
+        {
+            "id": 1,
+            "question": "How to purchase?",
+            "answer": "Choose a package in the product order, the package is based on recommendations for your health problems."
+        },
+        {
+            "id": 2,
+            "question": "Is this product safe to use?",
+            "answer": "Our product has undergone rigorous testing and evaluation by KKM experts to ensure it meets the stringent health and safety requirements set by the Malaysian government."
+        },
+        {
+            "id": 3,
+            "question": "Does this product really work?",
+            "answer": "We have many successful testimonials after using our products, it is important to remember that everyone's body reacts differently. Factors such as your current health, lifestyle and consistency in product use can affect the time it takes to see results.."
+        },
+        {
+            "id": 4,
+            "question": "Is this product tested for quality and purity?",
+            "answer": "At PW Wellness Sdn Bhd, we take pride in our unwavering dedication to producing products of the highest quality and safety standards. We are thrilled to announce that our manufacturing facility has achieved the prestigious status of Good Manufacturing Practices (GMP) certification."
+        },
+        {
+            "id": 5,
+            "question": "I am interested in becoming a member.",
+            "answer": "Customers who have made a purchase of any package will automatically continue to be members of Perfect Partners. After successful order, customers will be given temporary username and password to login Member Pages at (perfectworld2u.com)"
+        }
+    ]
+}

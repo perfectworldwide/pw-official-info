@@ -1,0 +1,153 @@
+{
+    "title": "Our Product Package",
+    "subtitle1": "Take a Look at Our",
+    "subtitle2": "Recommended Products",
+    "description": "We have made it easy for customers to get the best products that suit the needs of users and we combine them in the form of packages provided. Select the package you need and click the buy now button to go straight to the payment process.",
+    "recommended": "Recommended Products",
+    "set": {
+        "a": {
+            "id": 1,
+            "set": "a",
+            "package": 1,
+            "title": "SET A",
+            "description": "For diabetes, blood sugar stability, cholesterol, high blood pressure and heart problems",
+            "details": [
+                "Perfect Mulmor (3 Boxes)",
+                "Perfect Prebiotic Fiber (1 Box)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 56,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/a"
+        },
+        "b": {
+            "id": 2,
+            "set": "b",
+            "package": 1,
+            "title": "SET B",
+            "description": "For lung problems, asthma and chronic cough",
+            "details": [
+                "Perfect Prebiotic Fiber (1 Box)",
+                "Perfect TMA (3 Boxes)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 57,
+                    "qty": 1
+                },
+                {
+                    "itemid": 59,
+                    "qty": 3
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/b"
+        },
+        "c": {
+            "id": 3,
+            "set": "c",
+            "package": 1,
+            "title": "SET C",
+            "description": "For intestinal problems and constipation",
+            "details": [
+                "Perfect Mulmor (1 Box)",
+                "Perfect Prebiotic Fiber (3 Boxes)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 56,
+                    "qty": 1
+                },
+                {
+                    "itemid": 57,
+                    "qty": 3
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/c"
+        },
+        "d": {
+            "id": 4,
+            "set": "d",
+            "package": 1,
+            "title": "SET D",
+            "description": "For women's health & problems with menstrual cycle instability",
+            "details": [
+                "Perfect Primu Layde (3 Boxes)",
+                "Perfect Prebiotic Fiber (1 Box)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 58,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/d"
+        },
+        "e": {
+            "id": 5,
+            "set": "e",
+            "package": 1,
+            "title": "SET E",
+            "description": "Improve stamina performance and productivity when exercising",
+            "details": [
+                "Perfect Coffee PGG (6 Boxes)",
+                "Perfect Prebiotic Fiber (1 Box)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 61,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/e"
+        },
+        "f": {
+            "id": 6,
+            "set": "f",
+            "package": 1,
+            "title": "SET F",
+            "description": "Family Health, Prebiotic Drink",
+            "details": [
+                "Perfect Coffee PGG (4 Boxes)",
+                "Perfect Kids DHA (4 Boxes)",
+                "Free Shipping (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 61,
+                    "qty": 2
+                },
+                {
+                    "itemid": 64,
+                    "qty": 2
+                }
+            ],
+            "buttontext": "Order Now",
+            "url": "/order/f"
+        }
+    }
+}

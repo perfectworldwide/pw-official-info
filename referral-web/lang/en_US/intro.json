@@ -1,0 +1,60 @@
+{
+    "header":{
+        "title":"Introducing",
+        "subtitle1": "Your Best Choice For Healthy Lifestyle With",
+        "subtitle2": "Trending Products",
+        "description": "Welcome to Perfect World, The leading company with the best products on the market and wide business opportunities"
+    },
+    "section1": {
+        "title": "Fast Grow Company & Healthy Products",
+        "subtitle1": "Shop by",
+        "subtitle2": "Health Concern",
+        "description": "We believe that good health is the cornerstone of a happy life. With this philosophy at heart, we offer a comprehensive selection of carefully curated products that are designed to support various aspects of physical, mental, and emotional well-being",
+        "items": {
+            "1": "Package Sold",
+            "2": "Product Sold",
+            "3": "End Users",
+            "4": "Company"
+        }
+    },
+    "section2": {
+        "title": "Establish company since 2022",
+        "subtitle1": "PW Wellness",
+        "subtitle2": "Sdn Bhd",
+        "description": "Introducing Our Natural Solution for Healthy Lifestyle",
+        "contents": [
+            {
+                "id": 1,
+                "title": "Bridging Nature and Wellness",
+                "description": "we believe in the power of nature to provide effective solutions for modern challenges. Our mission is to harness the goodness of natural ingredients to create Healty Product that promote overall well-being. With a perfect blend of science and nature, we bring you products that are not only effective but also in harmony with the environment."
+            },
+            {
+                "id": 2,
+                "title": "The Essence of Nature in Every Product",
+                "description": "Discover the true potential of natural ingredients with our carefully crafted product line. Each product is formulated using the finest botanicals, herbs, and extracts that nature has to offer. We meticulously select and combine these elements to create products that deliver remarkable results, helping you achieve your health and beauty goals naturally."
+            },
+            {
+                "id": 3,
+                "title": "A Holistic Approach to Self-Care",
+                "description": "we understand that self-care is more than just skin deep. It's about embracing a holistic lifestyle that nurtures your body, mind, and spirit. Our products range is designed to enhance your overall quality of life. Whether you're seeking natural remedies or a daily self-care ritual, we have the perfect solution to support you on your journey to well-being."
+            },
+            {
+                "id": 4,
+                "title": "Your Wellness, Our Priority",
+                "description": "Perfect World is more than a brand; it's a commitment to your wellness. Through our meticulously developed natural products and our engaging community, we're dedicated to helping you thrive."
+            }
+        ]
+    },
+    "section3": {
+        "title": "",
+        "subtitle1": "Thousands",
+        "subtitle2": "of Customers Love Us",
+        "description": "The marketer's goal is to help customers feel confident about their choice. Just providing more information often doesn't help",
+        "items": {
+            "1": "Top Rated Platform",
+            "2": "Highest Selling Products",
+            "3": "Super Easy to Sharing",
+            "4": "Good Customer Support"
+        }
+    }
+}

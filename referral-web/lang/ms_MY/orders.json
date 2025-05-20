@@ -1,0 +1,153 @@
+{
+    "title": "Pakej Produk Kami",
+    "subtitle1": "Produk Yang",
+    "subtitle2": "Disyorkan oleh Kami",
+    "description": "Kami telah memudahkan pelanggan mendapatkan produk terbaik yang sesuai dengan kehendak pengguna dan kami menggabungkannya dalam bentuk pakej yang disediakan. Pilih pakej yang anda perlukan dan klik butang beli sekarang untuk terus ke proses pembayaran.",
+    "recommended": "Produk Yang Disyorkan",
+    "set": {
+        "a": {
+            "id": 1,
+            "set": "a",
+            "package": 1,
+            "title": "SET A",
+            "description": "Baik untuk kencing manis, menstabilkan gula dalam darah, kolesterol, darah tinggi dan masalah jantung",
+            "details": [
+                "Perfect Mulmor (3 kotak)",
+                "Perfect Prebiotic Fiber (1 kotak)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 56,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/a"
+        },
+        "b": {
+            "id": 2,
+            "set": "b",
+            "package": 1,
+            "title": "SET B",
+            "description": "Baik untuk masalah paru-paru, asma dan batuk kronik",
+            "details": [
+                "Perfect Prebiotic Fiber (1 kotak)",
+                "Perfect TMA (3 kotak)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 57,
+                    "qty": 1
+                },
+                {
+                    "itemid": 59,
+                    "qty": 3
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/b"
+        },
+        "c": {
+            "id": 3,
+            "set": "c",
+            "package": 1,
+            "title": "SET C",
+            "description": "Baik untuk masalah usus dan sembelit",
+            "details": [
+                "Perfect Mulmor (1 kotak)",
+                "Perfect Prebiotic Fiber (3 kotak)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 56,
+                    "qty": 1
+                },
+                {
+                    "itemid": 57,
+                    "qty": 3
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/c"
+        },
+        "d": {
+            "id": 4,
+            "set": "d",
+            "package": 1,
+            "title": "SET D",
+            "description": "Baik untuk kesihatan wanita & masalah ketidakstabilan kitaran haid",
+            "details": [
+                "Perfect Primu Layde (3 kotak)",
+                "Perfect Prebiotic Fiber (1 kotak)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 58,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/d"
+        },
+        "e": {
+            "id": 5,
+            "set": "e",
+            "package": 1,
+            "title": "SET E",
+            "description": "Untuk meningkatkan prestasi stamina dan produktiviti ketika bersenam",
+            "details": [
+                "Perfect Coffee PGG (6 kotak)",
+                "Perfect Prebiotic Fiber (1 kotak)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 61,
+                    "qty": 3
+                },
+                {
+                    "itemid": 57,
+                    "qty": 1
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/e"
+        },
+        "f": {
+            "id": 6,
+            "set": "f",
+            "package": 1,
+            "title": "SET F",
+            "description": "Kesihatan Keluarga, Minuman Prebiotik",
+            "details": [
+                "Perfect Coffee PGG (4 Boxes)",
+                "Perfect Kids DHA (4 Boxes)",
+                "Penghantaran percuma (1x)"
+            ],
+            "items": [
+                {
+                    "itemid": 61,
+                    "qty": 2
+                },
+                {
+                    "itemid": 64,
+                    "qty": 2
+                }
+            ],
+            "buttontext": "Beli Sekarang",
+            "url": "/order/f"
+        }
+    }
+}

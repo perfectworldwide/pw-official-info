@@ -1,0 +1,74 @@
+{
+    "title": "Semulajadi, Sihat & Kesejahteraan",
+    "subtitle1": "Semulajadi & Terkini",
+    "subtitle2": "Produk",
+    "description": "Ketahui rahsia di sebalik produk kami yang membezakannya daripada yang lain. Kami berbangga dengan penyelidikan dan pembangunan yang meluas, memastikan setiap produk yang kami tawarkan disokong oleh kepakaran saintifik. Komitmen kami terhadap kualiti bermakna anda boleh mempercayai keberkesanan dan keselamatan produk kami.",
+    "contents": [
+        {
+            "itemid": 56,
+            "name": "Perfect Mulmor",
+            "description": "Supplement terbaik untuk kencing manis",
+            "benefits": [
+                "Menstabilkan gula darah",
+                "Mengurangkan kolestrol dan tekanan darah",
+                "Tinggi antioksidan"
+            ],
+            "imgurl": "products/images/PMM01.avif"
+        },
+        {
+            "itemid": 57,
+            "name": "Perfect Prebiotic Fibre",
+            "description": "Supplement terbaik untuk Penghadaman",
+            "benefits": [
+                "Prebiotik Bertindak Sebagai Makanan Untuk Bakteria Baik",
+                "Baik untuk masalah usus",
+                "Mengawal berat badan"
+            ],
+            "imgurl": "products/images/PPF01.avif"
+        },
+        {
+            "itemid": 58,
+            "name": "Perfect TMA",
+            "description": "Supplement terbaik untuk kesihatan paru-paru",
+            "benefits": [
+                "Mengurangkan masalah paru-paru",
+                "Membantu sistem pernafasan",
+                "Meningkatkan sistem imuniti badan"
+            ],
+            "imgurl": "products/images/PTMA01.avif"
+        },
+        {
+            "itemid": 59,
+            "name": "Perfect Primu Layde",
+            "description": "Supplement terbaik untuk kesihatan Wanita",
+            "benefits": [
+                "Meningkatkan libido wanita",
+                "Mengurangkan gejala ketidakseimbangan hormon",
+                "Masalah menopaus"
+            ],
+            "imgurl": "products/images/PPL01.avif"
+        },
+        {
+            "itemid": 61,
+            "name": "Perfect Coffee PGG",
+            "description": "Kopi Prebiotik pertama di Malaysia",
+            "benefits": [
+                "Meningkatkan kesihatan usus",
+                "Mengurangkan Risiko Penyakit Kardiovaskular",
+                "Meningkatkan aliran darah"
+            ],
+            "imgurl": "products/images/PPGG01.avif"
+        },
+        {
+            "itemid": 64,
+            "name": "Perfect Kids",
+            "description": "Supplement terbaik untuk tumbesaran kanak-kanak",
+            "benefits": [
+                "Baik untuk minda, fokus dan ingatan kanak-kanak",
+                "Memperbaiki aliran darah dan sistem penghadaman yang sihat",
+                "Meningkatkan pertumbuhan bakteria baik"
+            ],
+            "imgurl": "products/images/PPDHA01.avif"
+        }
+    ]
+}

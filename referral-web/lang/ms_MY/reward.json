@@ -1,0 +1,38 @@
+{
+    "title": "Kelebihan menjadi Agen Pemasaran kami",
+    "subtitle1": "Daftar sebagai",
+    "subtitle2": "Ejen Pemasaran Kami",
+    "description": "Kami menjemput anda untuk menjadi sebahagian daripada komuniti kami yang semakin berkembang yang menghargai ketulenan, kesihatan dan peluang perniagaan untuk membina kestabilan pendapatan.",
+    "contents": [
+        {
+            "id": 1,
+            "title": "31% Komisen Tajaan (Setiap penajaan)",
+            "description": "Peroleh 31% dengan memperkenalkan ejen baru atau pelanggan membeli mana-mana pakej yang kami sediakan berdasarkan nilai mata setiap pakej..",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 2,
+            "title": "10-12% Komisen Jualan Kumpulan (Harian)",
+            "description": "Dapatkan bonus sehingga 12% daripada jualan kumpulan anda pada nilai mata setiap pakej.",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 3,
+            "title": "30% Komisen Kepimpinan (Harian)",
+            "description": "Peroleh 5%-10% daripada setiap peringkat pendapatan bonus jualan kumpulan ejen anda (maksimum 5 peringkat mengikut terma & syarat)",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 4,
+            "title": "RM 2.22 ~ 22.25 Komisen Kesetiaan (Bulanan)",
+            "description": "Peroleh RM 2.22 setiap belian ulangan pelanggan 'MAINTAIN' akaun (maksimum 10 peringkat mengikut terma & syarat)",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 5,
+            "title": "Mata Penebusan (Mengikut pencapaian)",
+            "description": "Kumpul mata penebusan daripada nilai mata jualan kumpulan yang berjaya dan tebus mata untuk wang tunai atau item yang disediakan oleh syarikat.",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        }
+    ]
+}

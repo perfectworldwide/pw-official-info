@@ -1,0 +1,74 @@
+{
+    "title": "Natural, Healthy & Wellness",
+    "subtitle1": "Natural & Trending",
+    "subtitle2": "Products",
+    "description": "Unveil the secret behind our products that sets it apart from the rest. We pride ourselves on extensive research and development, ensuring that every product we offer is backed by scientific expertise. Our commitment to quality means that you can trust the efficacy and safety of our products.",
+    "contents": [
+        {
+            "itemid": 56,
+            "name": "Perfect Mulmor",
+            "description": "The best supplement for diabetes",
+            "benefits": [
+                "Stable your blood sugar",
+                "Reduce cholesterol and high blood pressure",
+                "High in antioxidants"
+            ],
+            "imgurl": "products/images/PMM01.avif"
+        },
+        {
+            "itemid": 57,
+            "name": "Perfect Prebiotic Fibre",
+            "description": "The best supplement for colon health",
+            "benefits": [
+                "Prebiotics Act As Food For Good Bacteria",
+                "Good for intestinal problems",
+                "Weight management"
+            ],
+            "imgurl": "products/images/PPF01.avif"
+        },
+        {
+            "itemid": 58,
+            "name": "Perfect TMA",
+            "description": "The best supplement for lung health",
+            "benefits": [
+                "Reduce lung problems",
+                "Helps the respiratory system",
+                "Improve the immune system"
+            ],
+            "imgurl": "products/images/PTMA01.avif"
+        },
+        {
+            "itemid": 59,
+            "name": "Perfect Primu Layde",
+            "description": "The best supplement for Women health",
+            "benefits": [
+                "Increase female libido",
+                "Reduces symptoms of hormonal imbalance",
+                "Menopause problem"
+            ],
+            "imgurl": "products/images/PPL01.avif"
+        },
+        {
+            "itemid": 61,
+            "name": "Perfect Coffee PGG",
+            "description": "The best supplement for gut health",
+            "benefits": [
+                "Improve gut health",
+                "Reduces the Risk of Cardiovascular Disease",
+                "Increase blood flow"
+            ],
+            "imgurl": "products/images/PPGG01.avif"
+        },
+        {
+            "itemid": 64,
+            "name": "Perfect Kids",
+            "description": "The best supplement for children's growth",
+            "benefits": [
+                "Good for children's mind, focus, and memory",
+                "Improve blood flow and a healthy digestive system",
+                "Increases the growth of good bacteria"
+            ],
+            "imgurl": "products/images/PPDHA01.avif"
+        }
+    ]
+}

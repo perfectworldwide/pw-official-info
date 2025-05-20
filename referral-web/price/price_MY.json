@@ -1,0 +1,106 @@
+{
+    "WM": {
+        "set": {
+            "a": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            },
+            "b": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            },
+            "c": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            },
+            "d": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            },
+            "e": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            },
+            "f": {
+                "package": 1,
+                "detail": "RM 260.00",
+                "currency": "RM",
+                "payprice": 260.0,
+                "priceusd": 58.40,
+                "servicefee": 0
+            }
+        }
+    },
+    "EM": {
+        "set": {
+            "a": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            },
+            "b": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            },
+            "c": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            },
+            "d": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            },
+            "e": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            },
+            "f": {
+                "package": 1,
+                "detail": "RM 280.00",
+                "currency": "RM",
+                "payprice": 280.0,
+                "priceusd": 62.80,
+                "servicefee": 0
+            }
+        }
+    }
+}

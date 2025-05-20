@@ -1,0 +1,33 @@
+{
+    "title": "Soalan Lazim",
+    "subtitle1": "Adakah anda mempunyai",
+    "subtitle2": "sebarang pertanyaan?",
+    "description": "Anda boleh menghubungi kami pada bila-bila masa dengan sebarang pertanyaan! Kami sentiasa berbesar hati untuk melayani anda.",
+    "contents": [
+        {
+            "id": 1,
+            "question": "Bagaimana cara membuat pembelian?",
+            "answer": "Pilih pakej dalam pesanan produk, pakej adalah berdasarkan cadangan untuk masalah kesihatan anda."
+        },
+        {
+            "id": 2,
+            "question": "Adakah produk ini selamat digunakan?",
+            "answer": "Produk kami telah menjalani ujian dan penilaian oleh KKM untuk memastikan ia memenuhi keperluan kesihatan dan keselamatan ketat yang ditetapkan oleh kerajaan Malaysia."
+        },
+        {
+            "id": 3,
+            "question": "Adakah produk ini berkesan?",
+            "answer": "Kami mempunyai banyak testimoni yang berjaya selepas menggunakan produk PW Wellness, adalah penting diingatkan bahawa tubuh setiap orang bertindak balas secara berbeza. Faktor seperti kesihatan semasa anda, gaya hidup dan konsistensi dalam penggunaan produk boleh mempengaruhi masa yang diambil untuk melihat hasil keberkesanan produk."
+        },
+        {
+            "id": 4,
+            "question": "Adakah produk ini diuji kualiti dan ketulenannya?",
+            "answer": "Di PW Wellness Sdn Bhd, kami berbangga dengan dedikasi kami yang tidak berbelah bahagi untuk menghasilkan produk dengan berkualiti dan memenuhi standard keselamatan tertinggi. Kilang kami telah mencapai status berprestij pensijilan Amalan Pengilangan Baik (GMP)."
+        },
+        {
+            "id": 5,
+            "question": "Saya berminat untuk menjadi ahli.",
+            "answer": "Pelanggan yang telah membuat pembelian mana-mana pakej secara automatik akan terus menjadi ahli Perfect Partners. Selepas pesanan berjaya, pelanggan akan diberikan nama pengguna dan kata laluan sementara untuk log masuk Halaman Ahli di (perfectworld2u.com)"
+        }
+    ]
+}

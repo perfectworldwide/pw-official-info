@@ -1,0 +1,55 @@
+{
+    "header":{
+        "title":"Memperkenalkan",
+        "subtitle1": "Pilihan Terbaik Anda Untuk Gaya Hidup Sihat Dengan",
+        "subtitle2": "Produk PW Wellness",
+        "description": "Selamat datang ke Perfect World, Syarikat terkemuka dengan produk terbaik di pasaran dan peluang perniagaan yang luas"
+    },
+    "section1": {
+        "title": "Syarikat Yang Berkembang & Produk Kesihatan",
+        "subtitle1": "Beli-belah di PW Wellness,",
+        "subtitle2": "Prihatin Terhadap Kesihatan Anda",
+        "description": "Kami percaya bahawa kesihatan yang baik adalah asas kepada kehidupan yang bahagia. Dengan falsafah ini, kami menawarkan pilihan komprehensif produk yang dipilih susun dengan teliti yang direka untuk menyokong pelbagai aspek kesejahteraan fizikal, mental dan emosi.",
+        "items": {
+            "1": "Pakej Terjual",
+            "2": "Produk Terjual",
+            "3": "Pengguna",
+            "4": "Syarikat"
+        }
+    },
+    "section2": {
+        "title": "Ditubuhakan Sejak 2022",
+        "subtitle1": "PW Wellness",
+        "subtitle2": "Sdn Bhd",
+        "description": "Memperkenalkan Penyelesaian Semulajadi untuk Gaya Hidup Sihat",
+        "contents": [
+            {
+                "id": 1,
+                "title": "Kombinasi produk semulajadi dan kesejahteraan",
+                "description": "Misi kami adalah untuk memanfaatkan kebaikan bahan semula jadi untuk mencipta Produk Sihat yang menggalakkan kesejahteraan keseluruhan. Dengan gabungan sempurna sains dan alam semula jadi, kami membawakan anda produk yang bukan sahaja berkesan tetapi juga selaras dengan perkembangan terkini."
+            },
+            {
+                "id": 2,
+                "title": "Intipati Alam Dalam Setiap Produk",
+                "description": "Temui potensi sebenar bahan semula jadi dengan barisan produk kami yang direka dengan teliti. Setiap produk dirumus menggunakan botani, herba, dan ekstrak terbaik yang ditawarkan oleh alam semula jadi. Kami memilih dan menggabungkan elemen ini dengan teliti untuk mencipta produk yang memberikan hasil yang luar biasa, membantu anda mencapai matlamat kesihatan dan kecantikan anda secara semula jadi."
+            },
+            {
+                "id": 3,
+                "title": "Kesihatan Anda, Keutamaan Kami",
+                "description": "Perfect World adalah lebih daripada satu jenama; ia adalah komitmen untuk kesihatan anda. Melalui produk semula jadi kami yang dibangunkan dengan teliti dan komuniti kami yang menarik, kami berdedikasi untuk membantu anda berkembang maju."
+            }
+        ]
+    },
+    "section3": {
+        "title": "",
+        "subtitle1": "Beribu",
+        "subtitle2": "Pengguna Mempercayai Kami",
+        "description": "Matlamat pemasaran adalah untuk membantu pelanggan berasa yakin tentang pilihan mereka. Hanya memberikan lebih banyak maklumat selalunya tidak membantu",
+        "items": {
+            "1": "Platform Yang Terbaik",
+            "2": "Jualan Produk Tertinggi",
+            "3": "Mudah Untuk Dikongsi",
+            "4": "Bantuan Disediakan"
+        }
+    }
+}

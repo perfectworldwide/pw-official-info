@@ -1,0 +1,38 @@
+{
+    "title": "The Advantage of being our Marketing Agent",
+    "subtitle1": "Sign Up as Our",
+    "subtitle2": "Marketing Agent",
+    "description": "We invite you to be a part of our growing community that values authenticity, wellness, and business opportunity to build sustainability income.",
+    "contents": [
+        {
+            "id": 1,
+            "title": "31% Introducer Bonus (Instant)",
+            "description": "Earn 31% by referring new agent or customers buy any of package that we provided base on point value each package.",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 2,
+            "title": "10-12% Group Sales Bonus (Daily)",
+            "description": "Earn up to 12% bonus from your group sales base on point value each package.",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 3,
+            "title": "30% Max Leadership Bonus (Daily)",
+            "description": "Earn 5%-10% from each level by your agent group sales bonus income (max 5 level by term & condition)",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 4,
+            "title": "$0.50 ~ $5.00 Royalty Bonus (Monthly)",
+            "description": "Earn $0.50 each level by every repeat sales 'Maintain account' from customers (max 10 level by term & condition)",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        },
+        {
+            "id": 5,
+            "title": "Redemption Point (Achieved Items)",
+            "description": "Collect redemption point from successful group sales point value and redeem point for cash or items provided by company.",
+            "imgurl": "assets/images/landing/feature-icon/6.svg"
+        }
+    ]
+}
